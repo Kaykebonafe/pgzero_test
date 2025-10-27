@@ -1,9 +1,3 @@
-That's a fantastic idea\! A good README is essential for any project.
-
-Here is a cool, professional, and informative README file, specifically tailored for your **Pygame Zero Platformer** project, highlighting its features and adherence to the requirements.
-
------
-
 # 🚀 Super Ninja Mario Sonic Copy: A Pygame Zero Platformer
 
 ## 🌟 Overview
